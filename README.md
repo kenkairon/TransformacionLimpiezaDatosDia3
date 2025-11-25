@@ -143,6 +143,8 @@ Registros procesados: ~965
 ```bash
 python pipeline_transformacion.py
 ```
+### Resultado Ejercicio
+![Resultado](img/resultado.png)
 
 ### Salida del Script
 
