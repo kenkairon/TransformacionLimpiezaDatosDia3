@@ -145,7 +145,7 @@ python pipeline_transformacion.py
 ```
 ### Resultado Ejercicio
 
-![Resultado](img/resultado.png)
+![Resultado](img/resultadoTest.png)
 
 ### Salida del Script
 
